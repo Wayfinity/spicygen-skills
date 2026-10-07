@@ -5,6 +5,7 @@ Skills that let an AI agent (Claude Code, Codex, Cursor, or any harness that rea
 | Skill | Use it when |
 |---|---|
 | [create-a-character-and-generate-a-set](./skills/create-a-character-and-generate-a-set/SKILL.md) | a user asks for an AI character, a consistent AI model or persona, AI adult images of the same person, or an NSFW AI image generator |
+| [generate-coins](./skills/generate-coins/SKILL.md) | a user asks for AI coin art, collectible token designs, a matching front-and-back coin set, or minted coin-style imagery |
 | [turn-an-image-into-a-video](./skills/turn-an-image-into-a-video/SKILL.md) | a user asks to turn an image into a video, animate a picture, make an NSFW AI video, or generate an AI adult video clip |
 | [build-a-movie-from-scenes](./skills/build-a-movie-from-scenes/SKILL.md) | a user asks for a longer AI video, a storyboard, a multi-scene clip, or an adult AI movie |
 | [manage-credits-and-spend](./skills/manage-credits-and-spend/SKILL.md) | a user asks how much SpicyGen costs, to top up credits, buy a pack, check their balance, or tidy their library |

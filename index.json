@@ -9,6 +9,12 @@
       "url": "https://www.spicygen.ai/skills/create-a-character-and-generate-a-set/SKILL.md"
     },
     {
+      "name": "generate-coins",
+      "title": "Generate coins",
+      "description": "Generate polished AI coin, token or medallion artwork on SpicyGen (an AI adult image generator, 18+) through the SpicyGen MCP server or REST API. Use when a user asks for coin art, collectible token designs, a matching front-and-back coin set, or minted coin-style imagery.",
+      "url": "https://www.spicygen.ai/skills/generate-coins/SKILL.md"
+    },
+    {
       "name": "turn-an-image-into-a-video",
       "title": "Turn an image into a video",
       "description": "Animate a SpicyGen library image or a saved character into a short AI video with a motion prompt (SpicyMotion v3.0, 3 to 30 seconds, optional audio), through the SpicyGen MCP server or REST API. Use when a user asks to turn an image into a video, animate a picture, make an NSFW AI video, or generate an AI adult video clip.",
